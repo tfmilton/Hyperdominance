@@ -5,14 +5,10 @@
 # include <time.h>
 # include <string.h>
 /* my header files */
-/* # include <C:/Users/tamar/Dropbox/Desktop/Neutrality/C_Scripts/spatial_grid/general.h> */
-/* # include <C:/Users/tamar/Dropbox/Desktop/Neutrality/C_Scripts/spatial_grid/lattice_model.h> */
-/* # include <C:/Users/tamar/Dropbox/Desktop/Neutrality/C_Scripts/spatial_grid/macro_dynamic.h> */
-/* # include <C:/Users/tamar/Dropbox/Desktop/Neutrality/C_Scripts/spatial_grid/time_keeper.h> */
-# include </home/tfmilton/Spatial/general.h> 
-# include </home/tfmilton/Spatial/lattice_model.h> 
-# include </home/tfmilton/Spatial/macro_dynamic.h> 
-# include </home/tfmilton/Spatial/time_keeper.h> 
+# include <general.h> 
+# include <lattice_model.h> 
+# include <macro_dynamic.h> 
+# include <time_keeper.h> 
 
 
 
